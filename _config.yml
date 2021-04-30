@@ -17,7 +17,7 @@ header:
     - label: 首页
       url: /
       style: link
-    - label: Blog
+    - label: 教程
       url: /blog/
       style: link
     - label: Style Guide
