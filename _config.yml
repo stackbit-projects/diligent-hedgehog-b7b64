@@ -20,7 +20,7 @@ header:
     - label: 教程
       url: /blog/
       style: link
-    - label: Style Guide
+    - label: 联系
       url: /style-guide/
       style: link
     - label: About
