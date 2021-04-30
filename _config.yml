@@ -14,7 +14,7 @@ header:
   background: dark
   has_nav: true
   nav_links:
-    - label: Home
+    - label: 首页
       url: /
       style: link
     - label: Blog
